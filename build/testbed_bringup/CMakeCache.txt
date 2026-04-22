@@ -332,7 +332,7 @@ testbed_bringup_BINARY_DIR:STATIC=/home/deep/assignment_ws/build/testbed_bringup
 testbed_bringup_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
-testbed_bringup_SOURCE_DIR:STATIC=/home/deep/assignment_ws/src/l1-Deep2k24/testbed_bringup
+testbed_bringup_SOURCE_DIR:STATIC=/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_bringup
 
 //Path to a program.
 xmllint_BIN:FILEPATH=/usr/bin/xmllint
@@ -422,7 +422,7 @@ CMAKE_GENERATOR_PLATFORM:INTERNAL=
 CMAKE_GENERATOR_TOOLSET:INTERNAL=
 //Source directory with the top level CMakeLists.txt file for this
 // project
-CMAKE_HOME_DIRECTORY:INTERNAL=/home/deep/assignment_ws/src/l1-Deep2k24/testbed_bringup
+CMAKE_HOME_DIRECTORY:INTERNAL=/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_bringup
 //Install .so files without execute permission.
 CMAKE_INSTALL_SO_NO_EXE:INTERNAL=1
 //ADVANCED property for variable: CMAKE_LINKER

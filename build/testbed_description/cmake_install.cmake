@@ -1,4 +1,4 @@
-# Install script for directory: /home/deep/assignment_ws/src/l1-Deep2k24/testbed_description
+# Install script for directory: /home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,10 +44,10 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_description" TYPE DIRECTORY FILES
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_description/meshes"
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_description/urdf"
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_description/launch"
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_description/rviz"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description/meshes"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description/urdf"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description/launch"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description/rviz"
     )
 endif()
 
@@ -107,7 +107,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_description" TYPE FILE FILES "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_description/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_description" TYPE FILE FILES "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_description/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

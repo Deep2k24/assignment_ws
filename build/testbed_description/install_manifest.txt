@@ -18,6 +18,7 @@
 /home/deep/assignment_ws/install/testbed_description/share/testbed_description/rviz/testbed_barebones.rviz
 /home/deep/assignment_ws/install/testbed_description/share/testbed_description/rviz/full_bringup.rviz
 /home/deep/assignment_ws/install/testbed_description/share/testbed_description/rviz/urdf_gazebo.rviz
+/home/deep/assignment_ws/install/testbed_description/share/testbed_description/rviz/eric_assignment.rviz
 /home/deep/assignment_ws/install/testbed_description/share/ament_index/resource_index/package_run_dependencies/testbed_description
 /home/deep/assignment_ws/install/testbed_description/share/ament_index/resource_index/parent_prefix_path/testbed_description
 /home/deep/assignment_ws/install/testbed_description/share/testbed_description/environment/ament_prefix_path.sh

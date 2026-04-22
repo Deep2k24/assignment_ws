@@ -1,4 +1,4 @@
-# Install script for directory: /home/deep/assignment_ws/src/l1-Deep2k24/testbed_bringup
+# Install script for directory: /home/deep/assignment_ws/src/ros_nav2_assignment/testbed_bringup
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -43,7 +43,7 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_bringup/" TYPE DIRECTORY FILES "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_bringup/launch")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_bringup/" TYPE DIRECTORY FILES "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_bringup/launch")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
@@ -102,7 +102,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_bringup" TYPE FILE FILES "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_bringup/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_bringup" TYPE FILE FILES "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_bringup/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)

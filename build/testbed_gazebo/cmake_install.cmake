@@ -1,4 +1,4 @@
-# Install script for directory: /home/deep/assignment_ws/src/l1-Deep2k24/testbed_gazebo
+# Install script for directory: /home/deep/assignment_ws/src/ros_nav2_assignment/testbed_gazebo
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,9 +44,9 @@ endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_gazebo/" TYPE DIRECTORY FILES
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_gazebo/launch"
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_gazebo/worlds"
-    "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_gazebo/models"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_gazebo/launch"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_gazebo/worlds"
+    "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_gazebo/models"
     )
 endif()
 
@@ -106,7 +106,7 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_gazebo" TYPE FILE FILES "/home/deep/assignment_ws/src/l1-Deep2k24/testbed_gazebo/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/testbed_gazebo" TYPE FILE FILES "/home/deep/assignment_ws/src/ros_nav2_assignment/testbed_gazebo/package.xml")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
